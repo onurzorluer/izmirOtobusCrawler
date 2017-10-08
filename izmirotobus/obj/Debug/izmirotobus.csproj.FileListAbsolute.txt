@@ -1,0 +1,11 @@
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\bin\Debug\izmirotobus.exe.config
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\bin\Debug\izmirotobus.exe
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\bin\Debug\izmirotobus.pdb
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\bin\Debug\HtmlAgilityPack.dll
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\bin\Debug\LiteDB.dll
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\bin\Debug\HtmlAgilityPack.pdb
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\bin\Debug\HtmlAgilityPack.xml
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\bin\Debug\LiteDB.xml
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\obj\Debug\izmirotobus.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\obj\Debug\izmirotobus.exe
+c:\users\onur\documents\visual studio 2017\Projects\izmirotobus\izmirotobus\obj\Debug\izmirotobus.pdb
